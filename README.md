@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, You can call me "Adi" because my full name is Adiansyah Putra. I'm a Software Engineer who specializes in frontend development but can also code in backend. Very enthusiastic about modern web technology, particularly using JavaScript and keeping up with the latest trends and techniques.
+Hi there 👋, You can call me "Adi" because my full name is Adiansyah Putra. I'm a Software Engineer who specializes in frontend development but can also code in backend. Very enthusiastic about modern web technology, particularly using JavaScript and keeping up with the latest trends and techniques.
 
 <div>
   <h4>👨🏻‍💻 GitHub Usage stats</h4>
