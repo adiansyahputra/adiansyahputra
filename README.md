@@ -17,6 +17,22 @@ Here are some ideas to get you started:
 ## 🚀 About Me
 I'm a Software Engineer who specializes in frontend development but can also code in backend. Very enthusiastic about modern web technology, particularly using JavaScript and keeping up with the latest trends and techniques.
 
+## 🛠 Skills
+JavaScript 
+CSS & SCSS
+JSON
+HTML5
+RESTful API
+ReactJS
+NodeJS
+ExpressJS
+NextJS
+MongoDB
+MySQL 
+PostgreSQL
+GIT
+Bootstrap
+Tailwind CSS
 <div>
   <h4>👨🏻‍💻 GitHub Usage stats</h4>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=adiansyahputra&count_private=true&include_all_commits=true" />
