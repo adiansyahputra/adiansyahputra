@@ -28,6 +28,11 @@ I'm a Software Engineer who specializes in frontend development but can also cod
 - MongoDB, MySQL
 - Bootstrap, Tailwind CSS
 
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://adi-portfolio.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/adiansyah-putra-b36312158)
+
 <div>
   <h4>👨🏻‍💻 GitHub Usage stats</h4>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=adiansyahputra&count_private=true&include_all_commits=true" />
