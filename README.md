@@ -35,7 +35,6 @@ I'm a Software Engineer who specializes in frontend development but can also cod
 
 <div>
   <h4>👨🏻‍💻 GitHub Usage stats</h4>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=adiansyahputra&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiansyahputra&layout=compact" />
 </div>
           
